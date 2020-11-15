@@ -116,9 +116,9 @@ ul.text-list ul, ol.text-list ol {
   padding: 0 14px;
 }
 iframe {
-  display: block;
-  margin: 0;
-}
+  max-width: 100%;
+  height: auto;
+ }
 
 /* Drop Cap */
 .text-drop-cap {
